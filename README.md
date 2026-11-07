@@ -1,0 +1,1 @@
+# type-pryme-store
